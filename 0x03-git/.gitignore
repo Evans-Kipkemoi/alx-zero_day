@@ -1,0 +1,4 @@
+#emacs and vim files to ingnore
+*~
+*.swp
+*.swo
